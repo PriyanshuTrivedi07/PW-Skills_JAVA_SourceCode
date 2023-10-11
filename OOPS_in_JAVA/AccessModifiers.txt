@@ -1,0 +1,35 @@
+Topics Covered :
+    - #default values of attributes
+    - Access Modifiers
+    - Getters and Setters
+    - "this" keyword
+    - constructor
+    - final keyword
+    - static Keyword  
+
+
+
+Defaul value :
+    if we do not initialize the values after declaring an object , then all properties have some default values .
+    e.g. ->  int have default value '0', String have default value "null" , double have "0.0" etc. 
+
+Access Modifiers:
+    (1) Public - all packages
+    (2) Private - same class
+    (3) Default - same package
+
+Getters and Setters : 
+    - these are basically functions used to get and set the values of the private attributes
+
+"this" keyword : 
+    
+constructor :
+
+'static' keyword :
+    - when we add a 'static' keyword to a property then that property became shared property between all object . i.e.- it is class dependent not object dependent.
+    - we can also use it with using only class name (without declaring object);
+
+
+
+
+
